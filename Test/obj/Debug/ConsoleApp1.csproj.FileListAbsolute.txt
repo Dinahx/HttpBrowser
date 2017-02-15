@@ -1,0 +1,8 @@
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\HTTPBrowser.dll
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\HTTPBrowser.pdb

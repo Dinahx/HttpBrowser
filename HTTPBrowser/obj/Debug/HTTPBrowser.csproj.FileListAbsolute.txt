@@ -1,0 +1,6 @@
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\HTTPBrowser.dll
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\HTTPBrowser.pdb
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\obj\Debug\HTTPBrowser.dll
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\obj\Debug\HTTPBrowser.pdb
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\Newtonsoft.Json.xml

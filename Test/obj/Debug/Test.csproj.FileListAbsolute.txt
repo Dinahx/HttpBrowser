@@ -1,0 +1,10 @@
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\Test.exe.config
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\Test.exe
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\Test.pdb
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\HTTPBrowser.dll
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\HTTPBrowser.pdb
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\Test.exe
+C:\Users\Sier\Desktop\新建文件夹\ConsoleApp1\obj\Debug\Test.pdb

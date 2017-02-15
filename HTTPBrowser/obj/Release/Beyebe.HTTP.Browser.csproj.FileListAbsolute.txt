@@ -1,0 +1,5 @@
+C:\Users\Beyebe-Zane\OneDrive\Code\Beyebe\小蜜蜂v0.2\Solution·Bee\Beyebe.HTTP.Browser\bin\Release\Beyebe.HTTP.Browser.dll
+C:\Users\Beyebe-Zane\OneDrive\Code\Beyebe\小蜜蜂v0.2\Solution·Bee\Beyebe.HTTP.Browser\bin\Release\Beyebe.HTTP.Browser.pdb
+C:\Users\Beyebe-Zane\OneDrive\Code\Beyebe\小蜜蜂v0.2\Solution·Bee\Beyebe.HTTP.Browser\obj\Release\Beyebe.HTTP.Browser.dll
+C:\Users\Beyebe-Zane\OneDrive\Code\Beyebe\小蜜蜂v0.2\Solution·Bee\Beyebe.HTTP.Browser\obj\Release\Beyebe.HTTP.Browser.pdb
+C:\Users\Beyebe-Zane\OneDrive\Code\Beyebe\小蜜蜂v0.2\Solution·Bee\Beyebe.HTTP.Browser\obj\Release\Beyebe.HTTP.Browser.csprojResolveAssemblyReference.cache

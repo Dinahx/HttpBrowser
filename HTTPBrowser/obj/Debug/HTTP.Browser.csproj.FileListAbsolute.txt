@@ -1,0 +1,5 @@
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\Beyebe.HTTP.Browser.dll
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\bin\Debug\Beyebe.HTTP.Browser.pdb
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\obj\Debug\HTTP.Browser.csprojResolveAssemblyReference.cache
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\obj\Debug\Beyebe.HTTP.Browser.dll
+C:\Users\Sier\Desktop\新建文件夹\HTTP.Browser\obj\Debug\Beyebe.HTTP.Browser.pdb
